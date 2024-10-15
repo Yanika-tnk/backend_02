@@ -1,1 +1,7 @@
-print('hi')
+print('hello python')
+print("Yanika Khongsuk")
+print("Neen")
+print("18")
+print("4")
+print("67319010045")
+print("listen to music")
